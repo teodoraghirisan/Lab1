@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Lab1.Models
+//jdhfjdhj
 {
     public class ProductsDbSeeder
     {
